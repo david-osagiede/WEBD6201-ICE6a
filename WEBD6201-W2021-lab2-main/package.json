@@ -1,9 +1,9 @@
 {
-  "name": "webd6201-w2021-lab1b",
+  "name": "webd6201-lab2",
   "version": "1.0.0",
   "description": "Lab 1",
   "main": "app.js",
-  "repository": "https://github.com/ospaghetti/WEBD6201-ICE6a",
+  "repository": "https://github.com/ospaghetti/WEBD6201Lab2.github.io",
   "author": "David Osagiede <david.osagiede@dcmail.ca>",
   "license": "MIT",
   "dependencies": {
